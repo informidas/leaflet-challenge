@@ -1,4 +1,4 @@
-![Leaflet Mapping](/leaflet-challenge/Leaflet-Step-1/img/basicmap.png)
+![Leaflet Mapping](/leaflet-challenge/Leaflet-Step-1/static/img/basicmap.png)
 
 # Leaflet-Challenge
 
