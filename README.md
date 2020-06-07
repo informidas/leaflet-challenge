@@ -1,4 +1,4 @@
-!["Leaflet Mapping]("./Leflet/img/basicmap.png")
+![Leaflet Mapping](/Leaflet-Step-1/img/basicmap.png)
 
 # Leaflet-Challenge
 
